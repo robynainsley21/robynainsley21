@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-👩‍💻 I am Robyn Carnow, currently pursuing a career in web development.
+👩‍💻 I am Robyn Carnow, a graduate and currently pursuing a career in web development.
 
 📖 When I'm not bleary-eyed and debugging, I turn to a book. My favorite genres are thrillers, non-fiction and personal development. One of my favorite reads is the famous Atomic Habits by James Clear.
 
@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 🔗 You can contact me here:
 
